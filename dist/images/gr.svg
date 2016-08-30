@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="753px" height="466px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1267 786"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#373435;stroke-width:3.50886}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0 str0" x="2" y="2" width="1263" height="781"/>
+  <rect class="fil0 str0" x="2" y="2" width="781" height="781"/>
+  <rect class="fil0 str0" x="783" y="2" width="482" height="482"/>
+  <rect class="fil0 str0" x="966" y="484" width="299" height="299"/>
+  <rect class="fil0 str0" x="783" y="599" width="183" height="183"/>
+  <rect class="fil0 str0" x="783" y="484" width="115" height="115"/>
+  <rect class="fil0 str0" x="898" y="484" width="68.1323" height="68.1323"/>
+  <rect class="fil0 str0" x="919" y="553" width="46.3074" height="46.3074"/>
+  <rect class="fil0 str0" x="898" y="553" width="20.5976" height="20.5976"/>
+  <polyline class="fil0 str0" points="2,783 783,2 1265,484 966,783 783,599 898,484 965,553 919,599 898,573 "/>
+  <path class="fil0 str0" d="M2 783c260,-260 521,-520 781,-781l482 482 -299 299 -183 -184 115 -115 67 69 -46 46 -21 -26"/>
+ </g>
+</svg>

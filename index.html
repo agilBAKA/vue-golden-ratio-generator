@@ -27,13 +27,13 @@
             </li>
             <li>
                 <label>height</label>
-                <span>{{ setHeight }}px</span>
+                <span>{{ setHeight.toFixed(2) }}px</span>
             </li>
         </ul>
     </header>
 
     <section>
-        <canvas class="box-result"  v-bind:style="{ width: setWidth +'px', height: setHeight +'px' }">
+        <canvas class="box-result" v-el:canvas   v-bind:style="{ width: setWidth +'px', height: setHeight.toFixed(2) +'px' }">
         </canvas>
     </section>
     <script type="text/javascript" src="dist/js/vue.min.js"></script>

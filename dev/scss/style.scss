@@ -1,4 +1,4 @@
-$font   : 'Lato', sans-serif;
+$font   :'Inconsolata', monospace;;
 
 $color1 : #162b3a;
 $color2 : #3ac9bb;
@@ -49,30 +49,28 @@ header {
     }
 
     form {
-        padding-top: 20px;
-        input,
-        button {
+        padding-top: 40px;
+        label {
+            color: #ffffff;
+            text-transform: uppercase;
+            font-size: 13px;    
+        }
+        input  {
             text-transform: uppercase;
             padding: 15px;
             border-radius: 4px;
             text-align: center;
             display: block;
             width: 150px;
-            margin: 15px 0px;
-        }
-        input {
+            margin: 5px 0px 15px 0px;
             border: 1px solid darken($color1, 5%);
             background: #243846;
             color: #ffffff;
+            font-family: $font;
+            font-size: 18px;
         }
-        button {
-            background: $color2;
-            color: #ffffff;
-            font-weight: 700;
-            border: 0px;
-            cursor: pointer;
-        }
-    }
+         
+     }
     ul {
         list-style: none;
         color: #ffffff;
